@@ -1,0 +1,10 @@
+Telas.TelaLoginBanco$1
+Sistema.TelaLoginBanco$4
+Telas.TelaLoginBanco$2
+Sistema.TelaLoginBanco$1
+Sistema.TelaLoginBanco$3
+Sistema.TelaLoginBanco$2
+Sistema.TelaLoginBanco
+Telas.TelaLoginBanco$3
+Telas.TelaLoginBanco$4
+Telas.TelaLoginBanco
